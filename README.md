@@ -1,6 +1,18 @@
 # EQEMU_Item_Expansions
 List of items ID, and Name in the EQ Emulator DB, along with the expansion they were released in.
 
+## Sources
+<ul>
+  <li>Items list - https://docs.eqemu.io/</li>
+  <li>Expansion Release information - https://everquest.allakhazam.com/</li>
+<li>Data on when items became available is via research using multiple sites, and speaking with other players.</li>
+<ul>
+  <li>Some web sources:<br/> https://web.archive.org/
+  <br/>https://everquest.allakhazam.com/
+  <br/>https://eqtraders.com/</li>
+  </ul>
+</ul><br/>
+
 ## Expansions
 <table cellpadding="0" cellspacing="0" border="1" width="90%">
 <thead>
