@@ -1,11 +1,6 @@
 # EQEMU: Items by Expansion
-List of items by ID, and Name in the EQ Emulator database tables (vanilla install), along with the expansion they were released in (i.e., MIN_EXPANSION).<br/>
-
-## Update Log
-11/1/2022<Br/>
-* Tradeskill_recipe table - 14,018 items have a min_expansion associated with them. 22,100 total rows.
-* Added initial README.md.
-<br/>
+List of items by ID, and Name in the EQ Emulator database tables (vanilla install), along with the expansion they were released in (i.e., MIN_EXPANSION).
+<br/><br/>
 
 ## Sources
 <ul>
@@ -251,4 +246,10 @@ Sample SQL: Update recipes to minimum expansion of EQ Classic (0). <br/><br/>
 ## Additional Info
 
 Items released between official expansions will be assigned to the earlier expansion. For example, some tradeskill items were added between Dragons of Norrath and Depths of Darhallow. They would be included with Dragons of Norrath in this list.
+<br/><br/>
 
+## Update Log
+11/1/2022<Br/>
+* Tradeskill_recipe table - 14,018 items have a min_expansion associated with them. 22,100 total rows.
+* Added initial README.md.
+<br/>
