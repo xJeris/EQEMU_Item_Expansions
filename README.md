@@ -2,7 +2,7 @@
 List of items ID, and Name in the EQ Emulator DB, along with the expansion they were released in.
 
 ## Update Log
-* Initial file - 14,018 items have a min_expansion associated with them. (11/1/2022).
+* Tradeskill_recipe table - 14,018 items have a min_expansion associated with them. 22,100 total rows. (11/1/2022)
 <br/>
 
 ## Sources
