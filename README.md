@@ -17,6 +17,10 @@ List of items ID, and Name in the EQ Emulator DB, along with the expansion they 
   </ul>
 </ul><br/>
 
+## Errors and Omissions
+There were definitely be errors or missing items. A list of missing items will appear as a separate file at a future date.
+<br/>
+
 ## Expansions
 <table cellpadding="0" cellspacing="0" border="1" width="90%">
 <thead>
