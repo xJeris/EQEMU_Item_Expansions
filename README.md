@@ -1,5 +1,5 @@
 # EQEMU: Items by Expansion
-List of items ID, and Name in the EQ Emulator DB, along with the expansion they were released in.
+List of items by ID, and Name in the EQ Emulator database tables (vanilla install), along with the expansion they were released in (i.e., MIN_EXPANSION).<br/>
 
 ## Update Log
 * Tradeskill_recipe table - 14,018 items have a min_expansion associated with them. 22,100 total rows. (11/1/2022)
