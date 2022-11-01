@@ -1,6 +1,8 @@
 # EQEMU: Items by Expansion
 List of items by ID, and Name in the EQ Emulator database tables (vanilla install), along with the expansion they were released in (i.e., MIN_EXPANSION).
 <br/><br/>
+Omens of War will be the last expansion with nearly complete data for items. Mirroring the progress of projecteq. There will be some items from expansions beyond that in the tables however.
+<br/><br/>
 
 ## Sources
 <ul>
