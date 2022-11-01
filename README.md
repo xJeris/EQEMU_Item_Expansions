@@ -16,7 +16,7 @@ List of items ID, and Name in the EQ Emulator DB, along with the expansion they 
   <tr>
     <td>0</td>
     <td>Original</td>
-    <td>Marcg 1999</td>
+    <td>March 1999</td>
     <td>3/16/1999</td>
     <td>50</td>
   </tr>
