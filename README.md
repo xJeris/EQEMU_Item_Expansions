@@ -17,7 +17,7 @@ Omens of War will be the last expansion with nearly complete data for items. Mir
 </ul><br/>
 
 ## Errors and Omissions
-There were definitely be errors or missing items. A list of missing items will appear as a separate file at a future date.
+There will definitely be errors or missing items. A list of missing items will appear as a separate file at a future date.
 <br/><br/>
 
 ## Updating your Database
