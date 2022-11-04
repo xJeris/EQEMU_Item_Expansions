@@ -247,7 +247,7 @@ Sample SQL: Update recipes to minimum expansion of EQ Classic (0). <br/><br/>
 
 ## Additional Info
 
-Items released between official expansions will be assigned to the earlier expansion. For example, some tradeskill items were added between Dragons of Norrath and Depths of Darhallow. They would be included with Dragons of Norrath in this list.
+Items released between official expansions will be assigned to the earlier expansion. For example, some tradeskill items were added between Dragons of Norrath and Depths of Darkhallow. They would be included with Dragons of Norrath in this list.
 <br/><br/>
 
 ## Update Log
