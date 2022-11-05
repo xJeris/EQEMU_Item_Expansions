@@ -251,6 +251,10 @@ Items released between official expansions will be assigned to the earlier expan
 <br/><br/>
 
 ## Update Log
+11/5/2022<Br/>
+* Tradeskill_recipe table - Updated spells. Removed some errors.
+<br/><br/>
+
 11/1/2022<Br/>
 * Tradeskill_recipe table - 14,018 items have a min_expansion associated with them. 22,100 total rows.
 * Added initial README.md.
